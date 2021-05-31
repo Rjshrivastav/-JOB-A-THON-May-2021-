@@ -11,9 +11,12 @@ Happy Customer Bank is a mid-sized private bank that deals in all kinds of banki
 
 ## Dataset Description:
 **train.csv** - ID,Gender,Age,Region_Code,Occupation,Channel_code,Vintage,Credit_Product,Avg_Account_balance,Is_Active,Is_Lead
+
 **test.csv** - ID,Gender,Age,Region_Code,Occupation,Channel_code,Vintage,Credit_Product,Avg_Account_balance,Is_Active
+
 **sample_submission** - ID,Is_Lead
 
 ## Tools
 Code: Python Version: 3.8
+
 For predictive analytics: scikit-learn, LightGBM, Catboost
