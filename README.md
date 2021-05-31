@@ -1,5 +1,9 @@
 # Credit_Card_Lead_Prediction-JOB-A-THON
-Participated in Analytics Vidya Hackathon ( JOB-A-THON | May 2021 ). Public roc_auc_score - 0.8730946.
+Participated in Analytics Vidya Hackathon ( JOB-A-THON | May 2021 ). 
+
+Public roc_auc_score - 0.8730283119.
+
+Private roc_auc_score - 0.8730598635.
 
 This Repository contains all code, reports and approach.
 
@@ -20,3 +24,8 @@ Happy Customer Bank is a mid-sized private bank that deals in all kinds of banki
 Code: Python Version: 3.8
 
 For predictive analytics: scikit-learn, LightGBM, Catboost
+
+## Task
+Build a classifier that predicts if the customer is a interested in credit card or not.
+
+Kaggle link: https://www.kaggle.com/ranjeetshrivastav/job-a-thon-may-21
