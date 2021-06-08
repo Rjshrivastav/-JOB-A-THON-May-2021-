@@ -4,6 +4,7 @@ Participated in Analytics Vidya Hackathon ( JOB-A-THON | May 2021 ).
 Public roc_auc_score - 0.8730283119.
 
 Private roc_auc_score - 0.8730598635.
+Private LB rank: 156th
 
 This Repository contains all code, reports and approach.
 
